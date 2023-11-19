@@ -49,11 +49,7 @@ class Model(nn.Module):
         # Calcul de la perte en utilisant la fonction de perte définie
         loss = self.loss_fn(output, target)
         return loss
-
-    def update_weights(self, gradient):
-        # Mise à jour des poids du modèle avec le gradient donné
-        self.optimizer.zero_grad()
-        gradient.backward()
-        self.optimizer.step()
     
+    def evaluate(self, test_data):
+
 
