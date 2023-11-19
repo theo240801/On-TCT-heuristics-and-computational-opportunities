@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "chocoea"
+version = "0.1.0"
+description = "L'environnement poetry pour ChocoEA"
+authors = ["theo240801 <gaboriaudtheo@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+ipykernel = "^6.26.0"
+torch = "^2.1.1"
+torchvision = "^0.16.1"
+
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
