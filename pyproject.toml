@@ -10,6 +10,7 @@ python = "^3.11"
 ipykernel = "^6.26.0"
 torch = "^2.1.1"
 torchvision = "^0.16.1"
+tqdm = "^4.66.1"
 
 
 
