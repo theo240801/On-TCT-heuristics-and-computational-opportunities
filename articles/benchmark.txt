@@ -1,0 +1,99 @@
+STAGE 1 -
+0-th round: average train loss 0.168 | average test loss 6.74 | average test acc: 0.194
+1-th round: average train loss 0.0942 | average test loss 7.74 | average test acc: 0.191
+2-th round: average train loss 0.0442 | average test loss 7.57 | average test acc: 0.195
+3-th round: average train loss 0.0277 | average test loss 7.24 | average test acc: 0.195
+4-th round: average train loss 0.0269 | average test loss 7.62 | average test acc: 0.196
+5-th round: average train loss 0.0244 | average test loss 6.69 | average test acc: 0.193
+6-th round: average train loss 0.0285 | average test loss 6.71 | average test acc: 0.196
+7-th round: average train loss 0.0298 | average test loss 6.09 | average test acc: 0.197
+8-th round: average train loss 0.0139 | average test loss 6.04 | average test acc: 0.205
+9-th round: average train loss 0.0122 | average test loss 5.79 | average test acc: 0.204
+10-th round: average train loss 0.0116 | average test loss 5.37 | average test acc: 0.222
+11-th round: average train loss 0.00315 | average test loss 5.48 | average test acc: 0.238
+12-th round: average train loss 0.00221 | average test loss 5.91 | average test acc: 0.221
+13-th round: average train loss 0.00475 | average test loss 5.5 | average test acc: 0.237
+14-th round: average train loss 0.00399 | average test loss 5.39 | average test acc: 0.241
+
+
+STAGE 2 -
+Round 0: train accuracy=0.71562 test accuracy=0.71875
+Round 1: train accuracy=0.74687 test accuracy=0.82812
+Round 2: train accuracy=0.77188 test accuracy=0.84375
+Round 3: train accuracy=0.79688 test accuracy=0.85938
+Round 4: train accuracy=0.8125 test accuracy=0.875
+Round 5: train accuracy=0.825 test accuracy=0.85938
+Round 6: train accuracy=0.85 test accuracy=0.84375
+Round 7: train accuracy=0.86875 test accuracy=0.85938
+Round 8: train accuracy=0.88437 test accuracy=0.84375
+Round 9: train accuracy=0.89062 test accuracy=0.84375
+Round 10: train accuracy=0.9 test accuracy=0.84375
+Round 11: train accuracy=0.9125 test accuracy=0.84375
+Round 12: train accuracy=0.9125 test accuracy=0.84375
+Round 13: train accuracy=0.91875 test accuracy=0.84375
+Round 14: train accuracy=0.92813 test accuracy=0.84375
+
+------------------------------------------------------
+STAGE 1 -
+0-th round: average train loss 0.168 | average test loss 6.74 | average test acc: 0.194
+1-th round: average train loss 0.0942 | average test loss 7.74 | average test acc: 0.191
+2-th round: average train loss 0.0442 | average test loss 7.57 | average test acc: 0.195
+3-th round: average train loss 0.0277 | average test loss 7.24 | average test acc: 0.195
+4-th round: average train loss 0.0269 | average test loss 7.62 | average test acc: 0.196
+5-th round: average train loss 0.0244 | average test loss 6.69 | average test acc: 0.193
+6-th round: average train loss 0.0285 | average test loss 6.71 | average test acc: 0.196
+7-th round: average train loss 0.0298 | average test loss 6.09 | average test acc: 0.197
+8-th round: average train loss 0.0139 | average test loss 6.04 | average test acc: 0.205
+9-th round: average train loss 0.0122 | average test loss 5.79 | average test acc: 0.204
+10-th round: average train loss 0.0116 | average test loss 5.37 | average test acc: 0.222
+11-th round: average train loss 0.00315 | average test loss 5.48 | average test acc: 0.238
+12-th round: average train loss 0.00221 | average test loss 5.91 | average test acc: 0.221
+13-th round: average train loss 0.00475 | average test loss 5.5 | average test acc: 0.237
+14-th round: average train loss 0.00399 | average test loss 5.39 | average test acc: 0.241
+15-th round: average train loss 0.00153 | average test loss 5.22 | average test acc: 0.258
+16-th round: average train loss 0.00195 | average test loss 5.55 | average test acc: 0.241
+17-th round: average train loss 0.00381 | average test loss 5.1 | average test acc: 0.276
+18-th round: average train loss 0.00197 | average test loss 5.03 | average test acc: 0.254
+19-th round: average train loss 0.0125 | average test loss 4.18 | average test acc: 0.312
+20-th round: average train loss 0.0025 | average test loss 3.98 | average test acc: 0.280
+21-th round: average train loss 0.00247 | average test loss 4.51 | average test acc: 0.305
+22-th round: average train loss 0.00367 | average test loss 3.91 | average test acc: 0.306
+23-th round: average train loss 0.00216 | average test loss 3.81 | average test acc: 0.313
+24-th round: average train loss 0.000747 | average test loss 3.8 | average test acc: 0.324
+25-th round: average train loss 0.00119 | average test loss 3.64 | average test acc: 0.354
+26-th round: average train loss 0.000908 | average test loss 3.42 | average test acc: 0.373
+27-th round: average train loss 0.00117 | average test loss 4.1 | average test acc: 0.374
+28-th round: average train loss 0.000715 | average test loss 3.58 | average test acc: 0.384
+29-th round: average train loss 0.00105 | average test loss 4.83 | average test acc: 0.363
+
+STAGE 2 -
+Round 0: train accuracy=0.79062 test accuracy=0.78125
+Round 1: train accuracy=0.83125 test accuracy=0.85938
+Round 2: train accuracy=0.86563 test accuracy=0.875
+Round 3: train accuracy=0.88125 test accuracy=0.875
+Round 4: train accuracy=0.90312 test accuracy=0.875
+Round 5: train accuracy=0.92188 test accuracy=0.85938
+Round 6: train accuracy=0.93437 test accuracy=0.85938
+Round 7: train accuracy=0.94375 test accuracy=0.875
+Round 8: train accuracy=0.95 test accuracy=0.875
+Round 9: train accuracy=0.95938 test accuracy=0.875
+Round 10: train accuracy=0.96562 test accuracy=0.875
+Round 11: train accuracy=0.96875 test accuracy=0.875
+Round 12: train accuracy=0.96875 test accuracy=0.89062
+Round 13: train accuracy=0.96875 test accuracy=0.90625
+Round 14: train accuracy=0.97188 test accuracy=0.90625
+Round 15: train accuracy=0.975 test accuracy=0.92188
+Round 16: train accuracy=0.975 test accuracy=0.92188
+Round 17: train accuracy=0.97812 test accuracy=0.92188
+Round 18: train accuracy=0.97812 test accuracy=0.92188
+Round 19: train accuracy=0.97812 test accuracy=0.9375
+Round 20: train accuracy=0.97812 test accuracy=0.9375
+Round 21: train accuracy=0.97812 test accuracy=0.9375
+Round 22: train accuracy=0.97812 test accuracy=0.9375
+Round 23: train accuracy=0.98125 test accuracy=0.9375
+Round 24: train accuracy=0.98438 test accuracy=0.9375
+Round 25: train accuracy=0.9875 test accuracy=0.9375
+Round 26: train accuracy=0.9875 test accuracy=0.9375
+Round 27: train accuracy=0.9875 test accuracy=0.9375
+Round 28: train accuracy=0.9875 test accuracy=0.9375
+Round 29: train accuracy=0.9875 test accuracy=0.9375

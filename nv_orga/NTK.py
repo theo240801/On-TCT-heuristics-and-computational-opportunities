@@ -8,11 +8,18 @@ def compute_eNTK(model, X, subsample_size=100000, seed=123):
     
     prend un modèle de la classe Net_eNTK et un tenseur X en entrée et renvoie une matrice de taille (X.size()[0], subsample_size) contenant les vecteurs de gradient subsamplés pour chaque échantillon de X.
     """
-    model.eval()
-    params = list(model.parameters()) #liste de tous les paramètres trainable du modèle
     torch.manual_seed(seed)
     torch.cuda.manual_seed(seed)
-    random_index = torch.randperm(355073)[:subsample_size]
+    model.eval()
+
+    params = list(model.parameters()) #liste de tous les paramètres trainable du modèle
+    n_params = sum(p.numel() for p in list(model.parameters()))
+    random_index = torch.randperm(n_params)[:subsample_size]
+
+    #params = list(model.parameters())[:-2]  # Exclude the last two layers (self.fc2)
+    #n_params = sum(p.numel() for p in list(model.parameters())[:-2])
+    #random_index = torch.randperm(n_params)[:subsample_size]
+
     grads = None
     for i in tqdm(range(X.size()[0])):
         model.zero_grad() #réinitialise les gradients
