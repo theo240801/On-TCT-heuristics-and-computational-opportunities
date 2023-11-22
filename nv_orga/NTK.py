@@ -30,6 +30,7 @@ def compute_eNTK(model, X, subsample_size=100000, seed=123):
             if param.requires_grad:
                 grad.append(param.grad.flatten())
         grad = torch.cat(grad) #Concatène tous les gradients aplatis en un seul vecteur
+
         grad = grad[random_index] #Réduit la dimensionnalité du vecteur de gradient en utilisant l'indexation aléatoire définie par random_index
 
         if grads is None:
