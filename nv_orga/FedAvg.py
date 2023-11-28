@@ -9,7 +9,8 @@ def client_update(client_model, optimizer, train_loader, epoch=5): #réalise un 
 
     for e in range(epoch):
         for batch_idx, (data, target) in enumerate(train_loader):
-            data, target = data, target #supprimer data.cuda(), target.cuda()
+            if torch.cuda.is_available() :
+                data, target = data.cuda(), target.cuda() # Add .cuda() to use GPU
             #print('target', target)
             optimizer.zero_grad()
             output = client_model(data)
@@ -27,7 +28,11 @@ def average_models(global_model, client_models):
 
     for k in global_dict.keys():
         if k.startswith('conv') or k.startswith('layer') or k.startswith('fc'):
-            global_dict[k] = torch.stack([client_models[i].state_dict()[k].float() for i in range(len(client_models))], 0).mean(0)
+            if torch.cuda.is_available() :
+                global_dict[k] = torch.stack([client_models[i].state_dict()[k].float().cuda() for i in range(len(client_models))], 0).mean(0) # Add .cuda() to use GPU
+            else :
+                global_dict[k] = torch.stack([client_models[i].state_dict()[k].float() for i in range(len(client_models))], 0).mean(0) # Add .cuda() to use GPU
+
             layer_params = [client_models[i].state_dict()[k] for i in range(len(client_models))]
             #global_dict[k] = torch.stack(layer_params, 0).mean(0)
             total_params += sum(p.numel() for p in layer_params)  # Count the number of parameters in the layer
