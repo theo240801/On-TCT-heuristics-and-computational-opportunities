@@ -1,6 +1,7 @@
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
+import numpy as np
 
 def scaffold_update(grads_data, targets, theta_client, h_i_client_pre, theta_global,
                     M=200, lr_local=0.00001):

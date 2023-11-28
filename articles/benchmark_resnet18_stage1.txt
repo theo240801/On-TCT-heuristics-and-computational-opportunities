@@ -1,0 +1,650 @@
+client i :  0  loss :  2.507519245147705
+client i :  1  loss :  1.0925066471099854
+client i :  2  loss :  2.349066972732544
+client i :  3  loss :  2.3112568855285645
+client i :  4  loss :  2.464653491973877
+1-th round: average train loss 2.15 | average test loss 0.206 | average test acc: 0.145
+After update round  1  :  model saved as :  baseline_model/model_tct_stage1_ResNet18_Cifar10_round1.pth
+client i :  0  loss :  1.9317471981048584
+client i :  1  loss :  2.795234203338623
+client i :  2  loss :  2.178727865219116
+client i :  3  loss :  4.220367908477783
+client i :  4  loss :  4.245823860168457
+2-th round: average train loss 3.07 | average test loss 4.59 | average test acc: 0.150
+client i :  0  loss :  2.5916051864624023
+client i :  1  loss :  2.1793787479400635
+client i :  2  loss :  1.8579363822937012
+client i :  3  loss :  1.065732717514038
+client i :  4  loss :  1.3848812580108643
+3-th round: average train loss 1.82 | average test loss 0.373 | average test acc: 0.195
+After update round  3  :  model saved as :  baseline_model/model_tct_stage1_ResNet18_Cifar10_round3.pth
+client i :  0  loss :  1.971127986907959
+client i :  1  loss :  1.4300217628479004
+client i :  2  loss :  1.943014144897461
+client i :  3  loss :  1.5258245468139648
+client i :  4  loss :  3.107612371444702
+4-th round: average train loss 2 | average test loss 1.03e+04 | average test acc: 0.166
+client i :  0  loss :  2.0928945541381836
+client i :  1  loss :  1.9891712665557861
+client i :  2  loss :  2.0887510776519775
+client i :  3  loss :  2.293731927871704
+client i :  4  loss :  1.908708930015564
+5-th round: average train loss 2.07 | average test loss 2.57 | average test acc: 0.163
+After update round  5  :  model saved as :  baseline_model/model_tct_stage1_ResNet18_Cifar10_round5.pth
+client i :  0  loss :  1.6778247356414795
+client i :  1  loss :  1.1702799797058105
+client i :  2  loss :  2.1580276489257812
+client i :  3  loss :  0.9463710188865662
+client i :  4  loss :  0.8212664723396301
+6-th round: average train loss 1.35 | average test loss 0.0494 | average test acc: 0.265
+client i :  0  loss :  1.4528061151504517
+client i :  1  loss :  1.5358835458755493
+client i :  2  loss :  1.7147761583328247
+client i :  3  loss :  2.2806169986724854
+client i :  4  loss :  2.098102569580078
+7-th round: average train loss 1.82 | average test loss 0.0616 | average test acc: 0.244
+After update round  7  :  model saved as :  baseline_model/model_tct_stage1_ResNet18_Cifar10_round7.pth
+client i :  0  loss :  2.071549654006958
+client i :  1  loss :  0.6788254380226135
+client i :  2  loss :  2.10829496383667
+client i :  3  loss :  2.135805368423462
+client i :  4  loss :  1.104650855064392
+8-th round: average train loss 1.62 | average test loss 0.135 | average test acc: 0.261
+client i :  0  loss :  1.1389834880828857
+client i :  1  loss :  1.9851747751235962
+client i :  2  loss :  1.4552931785583496
+client i :  3  loss :  1.3563811779022217
+client i :  4  loss :  1.4772270917892456
+9-th round: average train loss 1.48 | average test loss 0.0843 | average test acc: 0.328
+After update round  9  :  model saved as :  baseline_model/model_tct_stage1_ResNet18_Cifar10_round9.pth
+client i :  0  loss :  1.6758452653884888
+client i :  1  loss :  1.2261295318603516
+client i :  2  loss :  1.3946760892868042
+client i :  3  loss :  0.9148204326629639
+client i :  4  loss :  3.9538049697875977
+10-th round: average train loss 1.83 | average test loss 0.273 | average test acc: 0.287
+client i :  0  loss :  1.6784173250198364
+client i :  1  loss :  1.3644760847091675
+client i :  2  loss :  0.5308678150177002
+client i :  3  loss :  1.1070021390914917
+client i :  4  loss :  1.347956895828247
+11-th round: average train loss 1.21 | average test loss 2.91 | average test acc: 0.277
+After update round  11  :  model saved as :  baseline_model/model_tct_stage1_ResNet18_Cifar10_round11.pth
+client i :  0  loss :  1.7151795625686646
+client i :  1  loss :  1.2532382011413574
+client i :  2  loss :  0.9340563416481018
+client i :  3  loss :  0.7157187461853027
+client i :  4  loss :  1.8358469009399414
+12-th round: average train loss 1.29 | average test loss 0.125 | average test acc: 0.313
+client i :  0  loss :  1.0210950374603271
+client i :  1  loss :  1.1894664764404297
+client i :  2  loss :  1.0958852767944336
+client i :  3  loss :  1.5853710174560547
+client i :  4  loss :  1.7347009181976318
+13-th round: average train loss 1.33 | average test loss 0.0618 | average test acc: 0.315
+After update round  13  :  model saved as :  baseline_model/model_tct_stage1_ResNet18_Cifar10_round13.pth
+client i :  0  loss :  1.0334211587905884
+client i :  1  loss :  0.5300779342651367
+client i :  2  loss :  1.085296630859375
+client i :  3  loss :  0.736250638961792
+client i :  4  loss :  0.7884153127670288
+14-th round: average train loss 0.835 | average test loss 0.0454 | average test acc: 0.390
+client i :  0  loss :  1.5255156755447388
+client i :  1  loss :  1.1285022497177124
+client i :  2  loss :  1.9740276336669922
+client i :  3  loss :  2.6425154209136963
+client i :  4  loss :  1.806190013885498
+15-th round: average train loss 1.82 | average test loss 0.169 | average test acc: 0.274
+After update round  15  :  model saved as :  baseline_model/model_tct_stage1_ResNet18_Cifar10_round15.pth
+client i :  0  loss :  0.9357715845108032
+client i :  1  loss :  1.3498814105987549
+client i :  2  loss :  0.898887574672699
+client i :  3  loss :  0.6427576541900635
+client i :  4  loss :  1.9061821699142456
+16-th round: average train loss 1.15 | average test loss 0.221 | average test acc: 0.308
+client i :  0  loss :  1.182881474494934
+client i :  1  loss :  0.7349464297294617
+client i :  2  loss :  2.6704866886138916
+client i :  3  loss :  1.0008139610290527
+client i :  4  loss :  0.925519585609436
+17-th round: average train loss 1.3 | average test loss 0.0657 | average test acc: 0.322
+After update round  17  :  model saved as :  baseline_model/model_tct_stage1_ResNet18_Cifar10_round17.pth
+client i :  0  loss :  1.5100641250610352
+client i :  1  loss :  1.0596760511398315
+client i :  2  loss :  0.6613916754722595
+client i :  3  loss :  0.9760104417800903
+client i :  4  loss :  2.414538860321045
+18-th round: average train loss 1.32 | average test loss 0.0594 | average test acc: 0.357
+client i :  0  loss :  2.0856173038482666
+client i :  1  loss :  1.482607126235962
+client i :  2  loss :  0.539121687412262
+client i :  3  loss :  1.6895885467529297
+client i :  4  loss :  1.3466500043869019
+19-th round: average train loss 1.43 | average test loss 0.0656 | average test acc: 0.349
+After update round  19  :  model saved as :  baseline_model/model_tct_stage1_ResNet18_Cifar10_round19.pth
+client i :  0  loss :  0.9389979243278503
+client i :  1  loss :  2.3679444789886475
+client i :  2  loss :  1.3317947387695312
+client i :  3  loss :  1.7296068668365479
+client i :  4  loss :  1.5434023141860962
+20-th round: average train loss 1.58 | average test loss 65.1 | average test acc: 0.174
+client i :  0  loss :  1.2727599143981934
+client i :  1  loss :  0.8327050805091858
+client i :  2  loss :  0.9774894118309021
+client i :  3  loss :  0.4797731935977936
+client i :  4  loss :  1.9203704595565796
+21-th round: average train loss 1.1 | average test loss 0.0803 | average test acc: 0.328
+After update round  21  :  model saved as :  baseline_model/model_tct_stage1_ResNet18_Cifar10_round21.pth
+client i :  0  loss :  0.4302172064781189
+client i :  1  loss :  1.3636350631713867
+client i :  2  loss :  0.5543738603591919
+client i :  3  loss :  1.0799378156661987
+client i :  4  loss :  1.3874595165252686
+22-th round: average train loss 0.963 | average test loss 123 | average test acc: 0.307
+client i :  0  loss :  1.093671202659607
+client i :  1  loss :  0.4946304261684418
+client i :  2  loss :  1.1176869869232178
+client i :  3  loss :  1.045944094657898
+client i :  4  loss :  1.4315838813781738
+23-th round: average train loss 1.04 | average test loss 0.0738 | average test acc: 0.310
+After update round  23  :  model saved as :  baseline_model/model_tct_stage1_ResNet18_Cifar10_round23.pth
+client i :  0  loss :  0.6348404884338379
+client i :  1  loss :  1.4219965934753418
+client i :  2  loss :  1.3226172924041748
+client i :  3  loss :  1.6550662517547607
+client i :  4  loss :  0.7800843119621277
+24-th round: average train loss 1.16 | average test loss 0.563 | average test acc: 0.322
+client i :  0  loss :  0.9527498483657837
+client i :  1  loss :  1.3075414896011353
+client i :  2  loss :  1.3159087896347046
+client i :  3  loss :  0.1975053995847702
+client i :  4  loss :  0.8094609975814819
+25-th round: average train loss 0.917 | average test loss 0.0541 | average test acc: 0.408
+After update round  25  :  model saved as :  baseline_model/model_tct_stage1_ResNet18_Cifar10_round25.pth
+client i :  0  loss :  1.5439448356628418
+client i :  1  loss :  0.4376997947692871
+client i :  2  loss :  0.25239068269729614
+client i :  3  loss :  1.7679778337478638
+client i :  4  loss :  1.0886881351470947
+26-th round: average train loss 1.02 | average test loss 0.0578 | average test acc: 0.398
+client i :  0  loss :  1.7710950374603271
+client i :  1  loss :  0.658858597278595
+client i :  2  loss :  0.13265447318553925
+client i :  3  loss :  1.6283382177352905
+client i :  4  loss :  0.3794274628162384
+27-th round: average train loss 0.914 | average test loss 0.066 | average test acc: 0.379
+After update round  27  :  model saved as :  baseline_model/model_tct_stage1_ResNet18_Cifar10_round27.pth
+client i :  0  loss :  0.7379890084266663
+client i :  1  loss :  0.22127828001976013
+client i :  2  loss :  0.3330058753490448
+client i :  3  loss :  0.34631282091140747
+client i :  4  loss :  0.2448224425315857
+28-th round: average train loss 0.377 | average test loss 0.0554 | average test acc: 0.444
+client i :  0  loss :  0.6298631429672241
+client i :  1  loss :  0.14614222943782806
+client i :  2  loss :  1.295852780342102
+client i :  3  loss :  0.44277265667915344
+client i :  4  loss :  0.7774041891098022
+29-th round: average train loss 0.658 | average test loss 0.0576 | average test acc: 0.384
+After update round  29  :  model saved as :  baseline_model/model_tct_stage1_ResNet18_Cifar10_round29.pth
+client i :  0  loss :  0.21009892225265503
+client i :  1  loss :  0.17190591990947723
+client i :  2  loss :  0.597661018371582
+client i :  3  loss :  1.3004465103149414
+client i :  4  loss :  0.8574780821800232
+30-th round: average train loss 0.628 | average test loss 0.0748 | average test acc: 0.458
+client i :  0  loss :  0.29234740138053894
+client i :  1  loss :  0.4063565731048584
+client i :  2  loss :  0.5698800086975098
+client i :  3  loss :  2.0585615634918213
+client i :  4  loss :  0.18302685022354126
+31-th round: average train loss 0.702 | average test loss 0.0589 | average test acc: 0.437
+After update round  31  :  model saved as :  baseline_model/model_tct_stage1_ResNet18_Cifar10_round31.pth
+client i :  0  loss :  0.33169543743133545
+client i :  1  loss :  0.4945645034313202
+client i :  2  loss :  0.15325753390789032
+client i :  3  loss :  1.3997917175292969
+client i :  4  loss :  0.2632617652416229
+32-th round: average train loss 0.529 | average test loss 0.0947 | average test acc: 0.403
+client i :  0  loss :  0.328400194644928
+client i :  1  loss :  2.1294851303100586
+client i :  2  loss :  0.2475035935640335
+client i :  3  loss :  0.4959132671356201
+client i :  4  loss :  0.23201116919517517
+33-th round: average train loss 0.687 | average test loss 0.0701 | average test acc: 0.420
+After update round  33  :  model saved as :  baseline_model/model_tct_stage1_ResNet18_Cifar10_round33.pth
+client i :  0  loss :  1.2379380464553833
+client i :  1  loss :  0.39670491218566895
+client i :  2  loss :  0.27037158608436584
+client i :  3  loss :  0.7810177206993103
+client i :  4  loss :  0.837734043598175
+34-th round: average train loss 0.705 | average test loss 0.0999 | average test acc: 0.297
+client i :  0  loss :  0.40128093957901
+client i :  1  loss :  1.3725981712341309
+client i :  2  loss :  1.6453759670257568
+client i :  3  loss :  0.9301475286483765
+client i :  4  loss :  2.213937282562256
+35-th round: average train loss 1.31 | average test loss 0.0974 | average test acc: 0.293
+After update round  35  :  model saved as :  baseline_model/model_tct_stage1_ResNet18_Cifar10_round35.pth
+client i :  0  loss :  0.5564271807670593
+client i :  1  loss :  0.8115034103393555
+client i :  2  loss :  0.8828413486480713
+client i :  3  loss :  0.36910533905029297
+client i :  4  loss :  3.7154226303100586
+36-th round: average train loss 1.27 | average test loss 0.083 | average test acc: 0.389
+client i :  0  loss :  1.1892857551574707
+client i :  1  loss :  0.6986178755760193
+client i :  2  loss :  0.1583075225353241
+client i :  3  loss :  0.8833596110343933
+client i :  4  loss :  0.6842254400253296
+37-th round: average train loss 0.723 | average test loss 0.0835 | average test acc: 0.363
+After update round  37  :  model saved as :  baseline_model/model_tct_stage1_ResNet18_Cifar10_round37.pth
+client i :  0  loss :  0.5138377547264099
+client i :  1  loss :  0.15773248672485352
+client i :  2  loss :  0.19335812330245972
+client i :  3  loss :  0.8717843890190125
+client i :  4  loss :  0.4188580811023712
+38-th round: average train loss 0.431 | average test loss 0.0519 | average test acc: 0.507
+client i :  0  loss :  0.41971150040626526
+client i :  1  loss :  1.049088954925537
+client i :  2  loss :  2.4019832611083984
+client i :  3  loss :  0.09674592316150665
+client i :  4  loss :  0.7331939339637756
+39-th round: average train loss 0.94 | average test loss 0.297 | average test acc: 0.253
+After update round  39  :  model saved as :  baseline_model/model_tct_stage1_ResNet18_Cifar10_round39.pth
+client i :  0  loss :  1.7814444303512573
+client i :  1  loss :  0.6009923219680786
+client i :  2  loss :  0.04898349940776825
+client i :  3  loss :  0.5216858386993408
+client i :  4  loss :  0.3677605986595154
+40-th round: average train loss 0.664 | average test loss 0.0682 | average test acc: 0.424
+client i :  0  loss :  0.2919232249259949
+client i :  1  loss :  0.7429576516151428
+client i :  2  loss :  0.32532015442848206
+client i :  3  loss :  0.149358332157135
+client i :  4  loss :  0.8592026233673096
+41-th round: average train loss 0.474 | average test loss 0.062 | average test acc: 0.441
+After update round  41  :  model saved as :  baseline_model/model_tct_stage1_ResNet18_Cifar10_round41.pth
+client i :  0  loss :  0.22272460162639618
+client i :  1  loss :  1.2297158241271973
+client i :  2  loss :  0.9637413024902344
+client i :  3  loss :  3.71924090385437
+client i :  4  loss :  0.1769513636827469
+42-th round: average train loss 1.26 | average test loss 0.073 | average test acc: 0.409
+client i :  0  loss :  0.03098154067993164
+client i :  1  loss :  0.9407985210418701
+client i :  2  loss :  0.14339415729045868
+client i :  3  loss :  2.1844680309295654
+client i :  4  loss :  0.20743443071842194
+43-th round: average train loss 0.701 | average test loss 0.08 | average test acc: 0.449
+After update round  43  :  model saved as :  baseline_model/model_tct_stage1_ResNet18_Cifar10_round43.pth
+client i :  0  loss :  0.2478693276643753
+client i :  1  loss :  0.3597037196159363
+client i :  2  loss :  0.05975230783224106
+client i :  3  loss :  0.39362430572509766
+client i :  4  loss :  0.014057174324989319
+44-th round: average train loss 0.215 | average test loss 0.182 | average test acc: 0.501
+client i :  0  loss :  0.17458200454711914
+client i :  1  loss :  0.5090024471282959
+client i :  2  loss :  0.049245450645685196
+client i :  3  loss :  1.485649585723877
+client i :  4  loss :  1.602098822593689
+45-th round: average train loss 0.764 | average test loss 0.0981 | average test acc: 0.404
+After update round  45  :  model saved as :  baseline_model/model_tct_stage1_ResNet18_Cifar10_round45.pth
+client i :  0  loss :  0.028041500598192215
+client i :  1  loss :  1.0655781030654907
+client i :  2  loss :  0.2597176730632782
+client i :  3  loss :  0.060013771057128906
+client i :  4  loss :  1.1878259181976318
+46-th round: average train loss 0.52 | average test loss 0.0948 | average test acc: 0.441
+client i :  0  loss :  0.016022389754652977
+client i :  1  loss :  0.5399835705757141
+client i :  2  loss :  0.009264601394534111
+client i :  3  loss :  0.33407700061798096
+client i :  4  loss :  0.04449794441461563
+47-th round: average train loss 0.189 | average test loss 0.041 | average test acc: 0.579
+After update round  47  :  model saved as :  baseline_model/model_tct_stage1_ResNet18_Cifar10_round47.pth
+client i :  0  loss :  0.8710433840751648
+client i :  1  loss :  0.017143262550234795
+client i :  2  loss :  0.09356503933668137
+client i :  3  loss :  0.027401888743042946
+client i :  4  loss :  1.137081503868103
+48-th round: average train loss 0.429 | average test loss 0.0687 | average test acc: 0.544
+client i :  0  loss :  0.9399058818817139
+client i :  1  loss :  0.012798984535038471
+client i :  2  loss :  0.011160680092871189
+client i :  3  loss :  0.17449888586997986
+client i :  4  loss :  0.008339931257069111
+49-th round: average train loss 0.229 | average test loss 0.0818 | average test acc: 0.523
+After update round  49  :  model saved as :  baseline_model/model_tct_stage1_ResNet18_Cifar10_round49.pth
+client i :  0  loss :  1.958387851715088
+client i :  1  loss :  0.39689019322395325
+client i :  2  loss :  1.077406883239746
+client i :  3  loss :  0.15041811764240265
+client i :  4  loss :  0.45414119958877563
+50-th round: average train loss 0.807 | average test loss 0.0792 | average test acc: 0.395
+client i :  0  loss :  0.13044001162052155
+client i :  1  loss :  0.004052137956023216
+client i :  2  loss :  0.09320239722728729
+client i :  3  loss :  1.248799204826355
+client i :  4  loss :  0.5245500802993774
+51-th round: average train loss 0.4 | average test loss 0.0561 | average test acc: 0.536
+After update round  51  :  model saved as :  baseline_model/model_tct_stage1_ResNet18_Cifar10_round51.pth
+client i :  0  loss :  0.685708224773407
+client i :  1  loss :  0.5078950524330139
+client i :  2  loss :  1.4191066026687622
+client i :  3  loss :  0.6301592588424683
+client i :  4  loss :  0.12186496704816818
+52-th round: average train loss 0.673 | average test loss 0.119 | average test acc: 0.310
+client i :  0  loss :  0.5148791074752808
+client i :  1  loss :  0.8984348773956299
+client i :  2  loss :  1.3790785074234009
+client i :  3  loss :  0.14927417039871216
+client i :  4  loss :  0.41312065720558167
+53-th round: average train loss 0.671 | average test loss 0.116 | average test acc: 0.385
+After update round  53  :  model saved as :  baseline_model/model_tct_stage1_ResNet18_Cifar10_round53.pth
+client i :  0  loss :  0.4973944425582886
+client i :  1  loss :  0.39665108919143677
+client i :  2  loss :  0.4853709936141968
+client i :  3  loss :  0.5006685256958008
+client i :  4  loss :  0.7412438988685608
+54-th round: average train loss 0.524 | average test loss 0.124 | average test acc: 0.343
+client i :  0  loss :  0.026989856734871864
+client i :  1  loss :  0.010361206717789173
+client i :  2  loss :  0.30364736914634705
+client i :  3  loss :  0.005006557796150446
+client i :  4  loss :  2.4887173175811768
+55-th round: average train loss 0.567 | average test loss 0.0475 | average test acc: 0.544
+After update round  55  :  model saved as :  baseline_model/model_tct_stage1_ResNet18_Cifar10_round55.pth
+client i :  0  loss :  0.8610077500343323
+client i :  1  loss :  0.03215647488832474
+client i :  2  loss :  0.7785593271255493
+client i :  3  loss :  0.9920284748077393
+client i :  4  loss :  0.20852325856685638
+56-th round: average train loss 0.574 | average test loss 0.18 | average test acc: 0.376
+client i :  0  loss :  0.3472454249858856
+client i :  1  loss :  0.423757940530777
+client i :  2  loss :  0.030835190787911415
+client i :  3  loss :  0.37963229417800903
+client i :  4  loss :  0.09042513370513916
+57-th round: average train loss 0.254 | average test loss 0.0708 | average test acc: 0.442
+After update round  57  :  model saved as :  baseline_model/model_tct_stage1_ResNet18_Cifar10_round57.pth
+client i :  0  loss :  0.0026449477300047874
+client i :  1  loss :  0.3226979970932007
+client i :  2  loss :  0.8232887387275696
+client i :  3  loss :  0.054332535713911057
+client i :  4  loss :  0.22677873075008392
+58-th round: average train loss 0.286 | average test loss 0.0633 | average test acc: 0.481
+client i :  0  loss :  1.3938990831375122
+client i :  1  loss :  0.18929672241210938
+client i :  2  loss :  0.01713648997247219
+client i :  3  loss :  0.7085556983947754
+client i :  4  loss :  0.0717364251613617
+59-th round: average train loss 0.476 | average test loss 0.0692 | average test acc: 0.502
+After update round  59  :  model saved as :  baseline_model/model_tct_stage1_ResNet18_Cifar10_round59.pth
+client i :  0  loss :  0.04520636051893234
+client i :  1  loss :  0.001695068902336061
+client i :  2  loss :  0.1878804862499237
+client i :  3  loss :  0.02250800095498562
+client i :  4  loss :  0.004620251711457968
+60-th round: average train loss 0.0524 | average test loss 0.0355 | average test acc: 0.633
+client i :  0  loss :  0.40959426760673523
+client i :  1  loss :  0.04958920553326607
+client i :  2  loss :  1.1205415725708008
+client i :  3  loss :  1.1555179357528687
+client i :  4  loss :  0.1413048654794693
+61-th round: average train loss 0.575 | average test loss 0.0638 | average test acc: 0.441
+After update round  61  :  model saved as :  baseline_model/model_tct_stage1_ResNet18_Cifar10_round61.pth
+client i :  0  loss :  0.6548579931259155
+client i :  1  loss :  0.5155006051063538
+client i :  2  loss :  0.14968256652355194
+client i :  3  loss :  0.17627397179603577
+client i :  4  loss :  0.30522605776786804
+62-th round: average train loss 0.36 | average test loss 0.0749 | average test acc: 0.474
+client i :  0  loss :  0.03982505947351456
+client i :  1  loss :  0.001998868305236101
+client i :  2  loss :  0.010026813484728336
+client i :  3  loss :  0.001923685660585761
+client i :  4  loss :  0.20864836871623993
+63-th round: average train loss 0.0525 | average test loss 0.0288 | average test acc: 0.673
+After update round  63  :  model saved as :  baseline_model/model_tct_stage1_ResNet18_Cifar10_round63.pth
+client i :  0  loss :  0.13135573267936707
+client i :  1  loss :  0.7193782925605774
+client i :  2  loss :  0.10847468674182892
+client i :  3  loss :  0.01411166787147522
+client i :  4  loss :  0.02855406329035759
+64-th round: average train loss 0.2 | average test loss 0.042 | average test acc: 0.615
+client i :  0  loss :  0.45893850922584534
+client i :  1  loss :  0.005686435382813215
+client i :  2  loss :  0.08945602923631668
+client i :  3  loss :  0.048028215765953064
+client i :  4  loss :  0.2766290605068207
+65-th round: average train loss 0.176 | average test loss 0.0694 | average test acc: 0.524
+After update round  65  :  model saved as :  baseline_model/model_tct_stage1_ResNet18_Cifar10_round65.pth
+client i :  0  loss :  1.365693211555481
+client i :  1  loss :  0.29506152868270874
+client i :  2  loss :  0.005900663323700428
+client i :  3  loss :  0.26012924313545227
+client i :  4  loss :  0.2608676254749298
+66-th round: average train loss 0.438 | average test loss 0.0671 | average test acc: 0.478
+client i :  0  loss :  1.2022873163223267
+client i :  1  loss :  0.8604475259780884
+client i :  2  loss :  0.13075754046440125
+client i :  3  loss :  0.902260422706604
+client i :  4  loss :  0.7118813991546631
+67-th round: average train loss 0.762 | average test loss 0.104 | average test acc: 0.341
+After update round  67  :  model saved as :  baseline_model/model_tct_stage1_ResNet18_Cifar10_round67.pth
+client i :  0  loss :  1.2220083475112915
+client i :  1  loss :  0.5110135674476624
+client i :  2  loss :  0.8605604767799377
+client i :  3  loss :  0.027449466288089752
+client i :  4  loss :  0.45562541484832764
+68-th round: average train loss 0.615 | average test loss 0.0706 | average test acc: 0.491
+client i :  0  loss :  0.0059522301889956
+client i :  1  loss :  0.09227122366428375
+client i :  2  loss :  0.4930095374584198
+client i :  3  loss :  0.046011850237846375
+client i :  4  loss :  0.0452083945274353
+69-th round: average train loss 0.136 | average test loss 0.0401 | average test acc: 0.604
+After update round  69  :  model saved as :  baseline_model/model_tct_stage1_ResNet18_Cifar10_round69.pth
+client i :  0  loss :  0.0454840324819088
+client i :  1  loss :  0.01568819023668766
+client i :  2  loss :  0.02132232114672661
+client i :  3  loss :  0.11728744208812714
+client i :  4  loss :  0.012710977345705032
+70-th round: average train loss 0.0425 | average test loss 0.0305 | average test acc: 0.674
+client i :  0  loss :  0.5213544964790344
+client i :  1  loss :  0.023008273914456367
+client i :  2  loss :  0.21252863109111786
+client i :  3  loss :  1.2209640741348267
+client i :  4  loss :  0.3747471272945404
+71-th round: average train loss 0.471 | average test loss 0.0692 | average test acc: 0.494
+After update round  71  :  model saved as :  baseline_model/model_tct_stage1_ResNet18_Cifar10_round71.pth
+client i :  0  loss :  0.1335018277168274
+client i :  1  loss :  0.08667992055416107
+client i :  2  loss :  0.0181248988956213
+client i :  3  loss :  1.4387401342391968
+client i :  4  loss :  0.3433276414871216
+72-th round: average train loss 0.404 | average test loss 0.0509 | average test acc: 0.550
+client i :  0  loss :  0.002161019714549184
+client i :  1  loss :  0.2545103132724762
+client i :  2  loss :  0.08402438461780548
+client i :  3  loss :  0.360679566860199
+client i :  4  loss :  0.19834905862808228
+73-th round: average train loss 0.18 | average test loss 0.199 | average test acc: 0.537
+After update round  73  :  model saved as :  baseline_model/model_tct_stage1_ResNet18_Cifar10_round73.pth
+client i :  0  loss :  0.21273522078990936
+client i :  1  loss :  0.05451168492436409
+client i :  2  loss :  0.63481205701828
+client i :  3  loss :  0.5248586535453796
+client i :  4  loss :  2.6602237224578857
+74-th round: average train loss 0.817 | average test loss 0.676 | average test acc: 0.442
+client i :  0  loss :  1.0023928880691528
+client i :  1  loss :  0.49938902258872986
+client i :  2  loss :  0.02662413939833641
+client i :  3  loss :  0.048752229660749435
+client i :  4  loss :  0.21676133573055267
+75-th round: average train loss 0.359 | average test loss 0.0599 | average test acc: 0.511
+After update round  75  :  model saved as :  baseline_model/model_tct_stage1_ResNet18_Cifar10_round75.pth
+client i :  0  loss :  0.1154610887169838
+client i :  1  loss :  0.5546920299530029
+client i :  2  loss :  0.02845507301390171
+client i :  3  loss :  0.007587783969938755
+client i :  4  loss :  0.0041390978731215
+76-th round: average train loss 0.142 | average test loss 0.0483 | average test acc: 0.593
+client i :  0  loss :  0.005125357769429684
+client i :  1  loss :  0.723365068435669
+client i :  2  loss :  0.0010532245505601168
+client i :  3  loss :  0.0018485102336853743
+client i :  4  loss :  0.4931713044643402
+77-th round: average train loss 0.245 | average test loss 0.0614 | average test acc: 0.560
+After update round  77  :  model saved as :  baseline_model/model_tct_stage1_ResNet18_Cifar10_round77.pth
+client i :  0  loss :  0.6080396771430969
+client i :  1  loss :  0.01465359702706337
+client i :  2  loss :  0.5523045063018799
+client i :  3  loss :  0.039166614413261414
+client i :  4  loss :  0.003235624171793461
+78-th round: average train loss 0.243 | average test loss 0.0539 | average test acc: 0.593
+client i :  0  loss :  0.004090674687176943
+client i :  1  loss :  0.7981275916099548
+client i :  2  loss :  0.06667919456958771
+client i :  3  loss :  0.827205240726471
+client i :  4  loss :  0.35400909185409546
+79-th round: average train loss 0.41 | average test loss 0.0804 | average test acc: 0.476
+After update round  79  :  model saved as :  baseline_model/model_tct_stage1_ResNet18_Cifar10_round79.pth
+client i :  0  loss :  0.03796057775616646
+client i :  1  loss :  0.12366459518671036
+client i :  2  loss :  0.01652640476822853
+client i :  3  loss :  0.8597617149353027
+client i :  4  loss :  0.04749278724193573
+80-th round: average train loss 0.217 | average test loss 0.0559 | average test acc: 0.540
+client i :  0  loss :  0.18470247089862823
+client i :  1  loss :  0.36304038763046265
+client i :  2  loss :  0.002882904838770628
+client i :  3  loss :  0.02615436166524887
+client i :  4  loss :  0.00415904400870204
+81-th round: average train loss 0.116 | average test loss 0.0402 | average test acc: 0.635
+After update round  81  :  model saved as :  baseline_model/model_tct_stage1_ResNet18_Cifar10_round81.pth
+client i :  0  loss :  0.055004529654979706
+client i :  1  loss :  0.027934245765209198
+client i :  2  loss :  0.010893466882407665
+client i :  3  loss :  0.052365370094776154
+client i :  4  loss :  0.12590104341506958
+82-th round: average train loss 0.0544 | average test loss 0.0323 | average test acc: 0.661
+client i :  0  loss :  0.14854711294174194
+client i :  1  loss :  0.012335455045104027
+client i :  2  loss :  0.2629885673522949
+client i :  3  loss :  0.16384561359882355
+client i :  4  loss :  0.07260718196630478
+83-th round: average train loss 0.132 | average test loss 0.0523 | average test acc: 0.568
+After update round  83  :  model saved as :  baseline_model/model_tct_stage1_ResNet18_Cifar10_round83.pth
+client i :  0  loss :  0.0021287784911692142
+client i :  1  loss :  0.7434910535812378
+client i :  2  loss :  0.0011501708067953587
+client i :  3  loss :  1.9527199268341064
+client i :  4  loss :  0.0012161827180534601
+84-th round: average train loss 0.54 | average test loss 0.0542 | average test acc: 0.571
+client i :  0  loss :  0.12167154252529144
+client i :  1  loss :  0.10923925787210464
+client i :  2  loss :  0.026285875588655472
+client i :  3  loss :  0.4114011824131012
+client i :  4  loss :  0.1868569254875183
+85-th round: average train loss 0.171 | average test loss 0.041 | average test acc: 0.605
+After update round  85  :  model saved as :  baseline_model/model_tct_stage1_ResNet18_Cifar10_round85.pth
+client i :  0  loss :  0.02509956806898117
+client i :  1  loss :  0.0023508945014327765
+client i :  2  loss :  0.1751803308725357
+client i :  3  loss :  0.12167075276374817
+client i :  4  loss :  0.9609150886535645
+86-th round: average train loss 0.257 | average test loss 0.085 | average test acc: 0.584
+client i :  0  loss :  0.12674707174301147
+client i :  1  loss :  0.0037848292849957943
+client i :  2  loss :  0.025658302009105682
+client i :  3  loss :  0.15243494510650635
+client i :  4  loss :  0.017596090212464333
+87-th round: average train loss 0.0652 | average test loss 0.0313 | average test acc: 0.671
+After update round  87  :  model saved as :  baseline_model/model_tct_stage1_ResNet18_Cifar10_round87.pth
+client i :  0  loss :  0.004479449708014727
+client i :  1  loss :  0.0023975807707756758
+client i :  2  loss :  0.0040794797241687775
+client i :  3  loss :  0.6317116022109985
+client i :  4  loss :  0.0017450517043471336
+88-th round: average train loss 0.129 | average test loss 0.0479 | average test acc: 0.639
+client i :  0  loss :  0.6713438034057617
+client i :  1  loss :  0.053166668862104416
+client i :  2  loss :  0.03442324697971344
+client i :  3  loss :  1.0070990324020386
+client i :  4  loss :  0.18048113584518433
+89-th round: average train loss 0.389 | average test loss 0.0881 | average test acc: 0.472
+After update round  89  :  model saved as :  baseline_model/model_tct_stage1_ResNet18_Cifar10_round89.pth
+client i :  0  loss :  0.20544762909412384
+client i :  1  loss :  0.1271660327911377
+client i :  2  loss :  0.018664274364709854
+client i :  3  loss :  0.0019751873333007097
+client i :  4  loss :  0.002368614310398698
+90-th round: average train loss 0.0711 | average test loss 0.0389 | average test acc: 0.612
+client i :  0  loss :  0.002319267252460122
+client i :  1  loss :  0.3318905532360077
+client i :  2  loss :  0.14436857402324677
+client i :  3  loss :  0.1450846642255783
+client i :  4  loss :  0.16229350864887238
+91-th round: average train loss 0.157 | average test loss 0.0439 | average test acc: 0.594
+After update round  91  :  model saved as :  baseline_model/model_tct_stage1_ResNet18_Cifar10_round91.pth
+client i :  0  loss :  0.015015690587460995
+client i :  1  loss :  0.6801910400390625
+client i :  2  loss :  0.5596421957015991
+client i :  3  loss :  0.9511377215385437
+client i :  4  loss :  0.050221122801303864
+92-th round: average train loss 0.451 | average test loss 0.0951 | average test acc: 0.491
+client i :  0  loss :  0.4375842809677124
+client i :  1  loss :  0.2042231261730194
+client i :  2  loss :  0.3152586817741394
+client i :  3  loss :  0.2990912199020386
+client i :  4  loss :  1.4421013593673706
+93-th round: average train loss 0.54 | average test loss 0.0922 | average test acc: 0.418
+After update round  93  :  model saved as :  baseline_model/model_tct_stage1_ResNet18_Cifar10_round93.pth
+client i :  0  loss :  0.002056512515991926
+client i :  1  loss :  0.0015360028482973576
+client i :  2  loss :  2.518256902694702
+client i :  3  loss :  0.49390870332717896
+client i :  4  loss :  0.0014482333790510893
+94-th round: average train loss 0.603 | average test loss 0.0574 | average test acc: 0.556
+client i :  0  loss :  1.0391719341278076
+client i :  1  loss :  0.2548249661922455
+client i :  2  loss :  0.15366075932979584
+client i :  3  loss :  0.008355717174708843
+client i :  4  loss :  0.5899721384048462
+95-th round: average train loss 0.409 | average test loss 0.0931 | average test acc: 0.454
+After update round  95  :  model saved as :  baseline_model/model_tct_stage1_ResNet18_Cifar10_round95.pth
+client i :  0  loss :  0.004598389845341444
+client i :  1  loss :  0.13006699085235596
+client i :  2  loss :  0.9810789823532104
+client i :  3  loss :  0.21365836262702942
+client i :  4  loss :  0.11797884106636047
+96-th round: average train loss 0.289 | average test loss 0.0519 | average test acc: 0.546
+client i :  0  loss :  0.04102538526058197
+client i :  1  loss :  0.11382413655519485
+client i :  2  loss :  0.030328597873449326
+client i :  3  loss :  0.5233072638511658
+client i :  4  loss :  0.13165873289108276
+97-th round: average train loss 0.168 | average test loss 0.0565 | average test acc: 0.590
+After update round  97  :  model saved as :  baseline_model/model_tct_stage1_ResNet18_Cifar10_round97.pth
+client i :  0  loss :  0.12194254994392395
+client i :  1  loss :  0.03058807924389839
+client i :  2  loss :  0.377596914768219
+client i :  3  loss :  0.3123854100704193
+client i :  4  loss :  0.3800719678401947
+98-th round: average train loss 0.245 | average test loss 0.0544 | average test acc: 0.539
+client i :  0  loss :  0.00019674754003062844
+client i :  1  loss :  0.1739465892314911
+client i :  2  loss :  0.05704749375581741
+client i :  3  loss :  0.44852590560913086
+client i :  4  loss :  0.04362110048532486
+99-th round: average train loss 0.145 | average test loss 0.0747 | average test acc: 0.553
+After update round  99  :  model saved as :  baseline_model/model_tct_stage1_ResNet18_Cifar10_round99.pth
+client i :  0  loss :  0.007407676428556442
+client i :  1  loss :  0.049316227436065674
+client i :  2  loss :  0.0006137260934337974
+client i :  3  loss :  0.0031157005578279495
+client i :  4  loss :  0.1157856211066246
+100-th round: average train loss 0.0352 | average test loss 0.0314 | average test acc: 0.664
