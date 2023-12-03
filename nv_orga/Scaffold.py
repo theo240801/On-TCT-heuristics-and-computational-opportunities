@@ -1,6 +1,7 @@
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
+import numpy as np
 
 def scaffold_update(grads_data, targets, theta_client, h_i_client_pre, theta_global,
                     M=200, lr_local=0.00001):
@@ -17,8 +18,11 @@ def scaffold_update(grads_data, targets, theta_client, h_i_client_pre, theta_glo
     theta_hat_local = (theta_global) * 1.0
 
     # local gd
+    print('local gd ')
     for local_iter in range(M):
         theta_hat_local -= lr_local * ((1.0 / num_samples) * grads_data.t() @ (grads_data @ theta_hat_local - targets_onehot) - h_i_client_update)
+        print('num local iter :', local_iter, end='\r')
+
 
     del targets
     del grads_data
