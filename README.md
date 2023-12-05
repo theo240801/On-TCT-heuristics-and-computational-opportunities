@@ -1,7 +1,7 @@
 # Travail sur TCT par Théo GABORIAUD, Samson GOUREVITCH et Thomas ROBERT
 ## Installation
 Installer les packages : 
-```pip install poetry``````
+```pip install poetry```
 ```poetry install```
 ## Organisation du repo
 ### Articles
