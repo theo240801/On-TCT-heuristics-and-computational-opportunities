@@ -1,1 +1,4 @@
-data
+data/baseline_model
+data/ckpt_stage1
+data/data_cifar10
+data/data_mnist
